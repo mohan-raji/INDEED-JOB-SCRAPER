@@ -26,9 +26,11 @@ It fetches job details (title, company, location, salary, job type, rating, revi
 ## 🛠️ Setup & Installation
 
 ### 1. Clone this repository
+```text
 git clone https://github.com/MOHAMMEDFAISALSM/indeed_scrape_using_apify.git
-cd indeed_scrape_using_apify
 
+cd indeed_scrape_using_apify
+```
 ### 2. Install dependencies
 pip install -r requirements.txt
 
