@@ -50,8 +50,9 @@ ACTOR_ID=your_actor_id_here
 ```
 
 ### 5. Run the scraper
-
+```text
 python indeed_scrapper.py
+```
 - Enter the job title you want (e.g., `Python Developer`)  
 - Wait while the scraper runs  
 - Results will be saved as:  
