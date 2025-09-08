@@ -32,18 +32,22 @@ git clone https://github.com/MOHAMMEDFAISALSM/indeed_scrape_using_apify.git
 cd indeed_scrape_using_apify
 ```
 ### 2. Install dependencies
+```text
 pip install -r requirements.txt
-
+```
 ### 3. Get your Apify API Token & Actor ID
 - Go to [Apify Indeed Scraper](https://apify.com/misceres/indeed-scraper)  
 - Click "**Try for free**" and sign in (new accounts get **$5 free credits**)  
 - Find your **API Token** and **Actor ID** from Apify dashboard  
 
 ### 4. Update your `.env` file
-Create a `.env` file in the project root (template included):  
-APIFY_TOKEN=your_apify_token_here
-ACTOR_ID=your_actor_id_here
 
+Create a `.env` file in the project root (template included):  
+```text
+APIFY_TOKEN=your_apify_token_here
+
+ACTOR_ID=your_actor_id_here
+```
 
 ### 5. Run the scraper
 
@@ -74,7 +78,7 @@ Python Developer_cleaned_jobs.xlsx
 ## 📧 Author
 👤 **Mohammed Faisal**  
 - GitHub: [MOHAMMEDFAISALSM](https://github.com/MOHAMMEDFAISALSM)  
-- LinkedIn: [mohammed-faisal-sm](https://www.linkedin.com/in/mohammed-faisal-sm-266173297)
+- LinkedIn: [mohammed-faisal-sm](https://www.linkedin.com/in/1810-mohammedfaisal-ai-ml-dev/)
 
 ---
 
