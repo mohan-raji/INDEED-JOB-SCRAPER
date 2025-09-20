@@ -78,8 +78,8 @@ Python Developer_cleaned_jobs.xlsx
 
 ## 📧 Author
 👤 **Mohammed Faisal**  
-- GitHub: [MOHAMMEDFAISALSM](https://github.com/MOHAMMEDFAISALSM)  
-- LinkedIn: [mohammed-faisal-sm](https://www.linkedin.com/in/1810-mohammedfaisal-ai-ml-dev/)
+- GitHub: [MOHAN-RAJI](https://github.com/mohan-raji)  
+- LinkedIn: [MOHAN-RAJI](https://www.linkedin.com/in/mohan-raji-2173a0297/)
 
 ---
 
